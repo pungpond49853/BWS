@@ -1,2 +1,0 @@
-# BWS
-greenrecycle
